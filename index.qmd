@@ -1,4 +1,12 @@
 ---
+# jupyter: python3
+include-in-header:
+  text: |
+    <script src="alignmargin.js"></script>
+format:
+  html:
+    css: styles.css
+    code-fold: true
+    code-block-border-left: true
 title: "Sokoly Research --- За мощь и гордость формальных наук"
 ---
-
