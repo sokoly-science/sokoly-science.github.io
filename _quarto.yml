@@ -2,7 +2,18 @@ project:
   type: website
   output-dir: docs
 
+filters:
+  - extensions/rtex.lua
+bibliography: references.bib
+# csl: glossa.csl
+reference-location: margin
+citation-location: margin
+
 website:
+  search:
+    location: sidebar
+    type: overlay
+    copy-button: true
   title: "Sokoly Research Institute • 救國隼教研團"
   navbar:
     left:
@@ -17,3 +28,6 @@ format:
       # - brand
     css: styles.css
     toc: true
+    toc-depth: 6
+    grid: 
+        margin-width: 300pt
