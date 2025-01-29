@@ -1,7 +1,4 @@
 ---
-title: "sokoly.science"
+title: "Sokoly Research --- За мощь и гордость формальных наук"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
