@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Sokoly Research 救國隼教研團"
+  title: "Sokoly Research Institute • 救國隼教研團"
   navbar:
     left:
       - href: index.qmd
