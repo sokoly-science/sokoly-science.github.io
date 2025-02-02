@@ -17,8 +17,6 @@ website:
   title: "Sokoly Research"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - text: "Research"
         menu:
           - text: "Machine Learning"
