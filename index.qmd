@@ -10,3 +10,9 @@ format:
     code-block-border-left: true
 title: "Sokoly Research"
 ---
+
+# Sokoly Research
+
+## Our Mission
+
+We are a team of researchers and developers who are passionate about using technology to improve people's lives.
