@@ -8,5 +8,5 @@ format:
     css: styles.css
     code-fold: true
     code-block-border-left: true
-title: "Sokoly Research --- За мощь и гордость формальных наук"
+title: "Sokoly Research"
 ---
