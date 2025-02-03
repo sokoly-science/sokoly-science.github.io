@@ -27,6 +27,8 @@ website:
             href: projects.qmd
       - href: about.qmd
         text: About
+      - href: who-we-are.qmd
+        text: "Who We Are"
 
 format:
   html:
