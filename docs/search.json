@@ -7,6 +7,20 @@
     "text": "Our research in formal science is focused on the development of new algorithms and models for various tasks, including multi-agent reinforcement learning, graph learning, and more."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "machine-learning.html",
+    "href": "machine-learning.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Machine Learning\nOur research in machine learning is focused on the development of new algorithms and models for various tasks, including multi-agent reinforcement learning, graph learning, and more."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sokoly Research",
@@ -21,24 +35,17 @@
     "text": "We are a team of researchers and developers who are passionate about using technology to improve people’s lives."
   },
   {
-    "objectID": "machine-learning.html",
-    "href": "machine-learning.html",
-    "title": "Machine Learning",
+    "objectID": "who-we-are.html",
+    "href": "who-we-are.html",
+    "title": "Who We Are",
     "section": "",
-    "text": "Machine Learning\nOur research in machine learning is focused on the development of new algorithms and models for various tasks, including multi-agent reinforcement learning, graph learning, and more."
+    "text": "Computer Science and Mathematics\nAI for Science"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "who-we-are.html#our-mission",
+    "href": "who-we-are.html#our-mission",
+    "title": "Who We Are",
     "section": "",
-    "text": "Projects"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "Computer Science and Mathematics\nAI for Science"
   }
 ]
