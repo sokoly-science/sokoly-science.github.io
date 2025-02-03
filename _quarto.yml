@@ -30,8 +30,9 @@ website:
       - href: who-we-are.qmd
         text: "Who We Are"
   page-footer:
+    border: true
+    background: light
     left:
-      - text: "Sokoly Research"
       - text: "Copyright &copy; 2025 Sokoly Research. All Rights Reserved."
     right:
       - href: mailto:rector@sokoly.science
